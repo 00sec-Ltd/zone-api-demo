@@ -1,5 +1,5 @@
 /*
- * php 调用 0.zone api（信息系统）示例
+ * Node.js 调用 0.zone api（信息系统）示例
  */
 const axios = require('axios')
 
