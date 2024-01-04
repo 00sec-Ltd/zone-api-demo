@@ -1,7 +1,7 @@
 import requests
 
 '''
-java 调用 0.zone api（信息系统）示例
+python 调用 0.zone api（信息系统）示例
 '''
 
 data = {
